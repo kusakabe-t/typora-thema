@@ -1,3 +1,6 @@
+Typora CSS files in
+/Users/<USERNAME>/Library/Application Support/abnerworks.Typora/themes
+
 The built-in CSS will be replaced after update / reinstall, DO NOT MODIFY THEM.
 
 Refer https://support.typora.io/Add-Custom-CSS/ when you want to modify those CSS.
